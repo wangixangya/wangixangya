@@ -42,13 +42,14 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wangixangya&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangixangya&layout=compact&theme=radical&hide=html"/>
+  <img src="./assets/github-stats.svg" alt="GitHub 统计 · Contributions · Streak · Repos" width="640"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangixangya&theme=radical"/>
+  <img src="./assets/github-langs.svg" alt="语言占比 · Languages" width="640"/>
 </p>
+
+> 自绘静态 SVG，不依赖任何第三方统计服务，随时可用；每天自动刷新一次。
 
 ## 🎯 近期在做 Currently Working On
 
